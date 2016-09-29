@@ -1,6 +1,6 @@
 {
   "name":           "suuid",
-  "version":        "0.0.0",
+  "version":        "0.0.1",
   "description":    "small identifier derived from a single UUID 8 character hex component",
   "repository": {
     "type":         "git",
