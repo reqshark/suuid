@@ -1,0 +1,29 @@
+{
+  "name":           "suuid",
+  "version":        "0.0.0",
+  "description":    "small identifier derived from a single UUID 8 character hex component",
+  "repository": {
+    "type":         "git",
+    "url":          "https://github.com/reqshark/suuid"
+  },
+  "author": {
+    "name":         "Bent Cardan",
+    "email":        "bent@nothingsatisfies.com",
+    "url":          "http://req.link"
+  },
+  "devDependencies": {
+    "tape":         "4",
+    "tap-spec":     "4"
+  },
+  "scripts": {
+    "test":         "node test | tap-spec"
+  },
+  "license":        "MIT",
+  "keywords": [
+    "random",
+    "uuid",
+    "identifier",
+    "small",
+    "smaller"
+  ]
+}
